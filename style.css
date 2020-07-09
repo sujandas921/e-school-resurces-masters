@@ -1,0 +1,86 @@
+.navbar{
+    background-color: #F0FFF0;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.nav-item{
+    margin-right: 20px;
+    
+}
+
+.nav-link{
+    color: #000;
+}
+.sign-btn{
+    background-color: #21B573;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    margin-top: 5px;
+}
+.top-banner{
+    background-color: #F0FFF0 ;
+    font-family: 'Sanchez', serif;
+   
+}
+.get-started-btn{
+    background-color: #21B573;
+    border-radius: 20px;
+    color: white;
+}
+#books img{
+    margin-bottom: 20px;
+}
+#books img{
+    width: 80px;
+}
+#books .card{
+    padding-top: 20px;
+    border: none;
+    background-color: #F8FFFB;
+    cursor: pointer;
+}
+#books .card:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+}
+#books .card p{
+    text-align: center;
+}
+.online-card{
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 5px grey;
+}
+.online-footer-icon img{
+    width: 30px;
+}
+.online-card-footer{
+    background-color: white;
+    border: none;
+    padding: 5px;
+}
+
+.Testimonial-img{
+    width: 100px;
+}
+#blog{
+    background-color: #1E1E1E;
+    padding: 80px;
+    color: white;
+}
+.blog-list li{
+   list-style: none;
+}
+.footer{
+    background-color: #1E1E1E;
+    color: white; 
+}
+
+@media(max-width: 767px){
+    .Testimonial-img{
+        margin-right: 50%;
+    }
+}
